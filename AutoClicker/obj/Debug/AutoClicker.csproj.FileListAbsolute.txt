@@ -1,0 +1,7 @@
+C:\Users\Austin\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csprojResolveAssemblyReference.cache
+C:\Users\Austin\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\Austin\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\Austin\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\Austin\source\repos\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\Austin\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\Austin\source\repos\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
